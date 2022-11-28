@@ -10,4 +10,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bialas0)](https://git.io/streak-stats)
 
-![image](https://user-images.githubusercontent.com/118835576/204313933-5c0b330f-2775-490a-b4ed-69dd103e0844.gif)
+![](https://media.tenor.com/eFHqZwJiiBkAAAAM/the-rock-the-rock-eyebrows.gif)
