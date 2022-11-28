@@ -10,4 +10,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bialas0)](https://git.io/streak-stats)
 
-![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fthe-rock-the-rock-eyebrows-the-wok-asian-the-rock-gif-23893311&psig=AOvVaw3UaIqyxm3rmwnh89GLh4Ts&ust=1669735006541000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDs6uCV0fsCFQAAAAAdAAAAABAN)
+![image](https://user-images.githubusercontent.com/118835576/204313933-5c0b330f-2775-490a-b4ed-69dd103e0844.png)
