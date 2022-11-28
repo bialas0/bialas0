@@ -1,5 +1,5 @@
 ### Hi there 👋
-#0d1117
+
 👋 Hi, I’m @bialasik_
 👀 I’m interested in assignments.
 🌱 I’m currently learning how to do assignments.
