@@ -2,7 +2,6 @@
 
 ## Check out my website: [bialas0/bialasik.github.io](https://bialas0.github.io/)
 
-#
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&size=22&duration=1500&pause=500&color=00FFD2&background=0A0047&center=true&vCenter=true&multiline=true&width=495&height=100&lines=Hello%2C+and+welcome+to+my+GitHub!;Check+out+my+repositories!)](https://git.io/typing-svg)
 #
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bialas0&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
