@@ -5,7 +5,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bialas0&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 #
 <!-- 445px (change when available ==>> add ``` card_width=445px ```-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bialas0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdfryt&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 #
 <div align="centre">
 <!--   <img src="https://cdn.pixabay.com/photo/2021/02/12/13/43/among-us-6008615_960_720.png" alt="amogus" widht="40" height="40"/>&nbsp;
