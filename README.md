@@ -15,6 +15,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bialas0&theme=dark&layout=compact&card_width=445px)](https://github.com/anuraghazra/github-readme-stats)
 
+#
+
 <div align="centre">
 <!--   <img src="https://cdn.pixabay.com/photo/2021/02/12/13/43/among-us-6008615_960_720.png" alt="amogus" widht="40" height="40"/>&nbsp;
   <img src="https://cdn.pixabay.com/photo/2021/02/12/13/43/among-us-6008615_960_720.png" alt="amogus" widht="40" height="40"/>&nbsp; -->
@@ -26,5 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" widht="40" height="40"/>&nbsp;
   <img src="https://cdn.pixabay.com/photo/2021/02/12/13/43/among-us-6008615_960_720.png" alt="amogus" widht="40" height="40"/>&nbsp;
  </div>
+ 
+ #
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&size=22&duration=1500&pause=500&color=00FFD2&background=0A0047&center=true&vCenter=true&multiline=false&width=500&height=25&lines=.+.+.+.+.+.+.+.+.+.+.+.+.)](https://git.io/typing-svg)
