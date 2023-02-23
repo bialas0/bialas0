@@ -2,7 +2,7 @@
 #
 ## Check out my website: [bialas0/bialasik.github.io](https://bialas0.github.io/)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bialas0&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bialas0&theme=tokyonight&border_radius=5)]
 #
 <!-- 445px (change when available ==>> add ``` card_width=445px ```-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bialas0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
