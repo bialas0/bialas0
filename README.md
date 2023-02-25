@@ -4,7 +4,7 @@
 
 ## Check out my website: [bialas0/bialasik.github.io](https://bialas0.github.io/)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bialas0&theme=tokyonight&border_radius=5&width=500)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bialas0&theme=tokyonight&border_radius=5&width=500)
 
 #
 
