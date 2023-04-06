@@ -15,8 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bialas0&theme=dark&layout=compact&card_width=445px)](https://github.com/anuraghazra/github-readme-stats)
 
-#https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg
-
 <div align="centre">
 <!--   <img src="https://cdn.pixabay.com/photo/2021/02/12/13/43/among-us-6008615_960_720.png" alt="amogus" widht="40" height="40"/>&nbsp;
   <img src="https://cdn.pixabay.com/photo/2021/02/12/13/43/among-us-6008615_960_720.png" alt="amogus" widht="40" height="40"/>&nbsp; -->
